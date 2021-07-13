@@ -1,0 +1,6 @@
+# Build and Release Folders
+target/
+.idea/
+
+# Other files and folders
+.settings/
